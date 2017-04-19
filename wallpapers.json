@@ -33,14 +33,18 @@
             "url": "https://raw.githubusercontent.com/Luismi74/files/master/The%20Ascent.png",
             "name": "The Ascent",
             "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/The%20Ascent.png"
-        }
-
-   , {
+        },{
             "author": "Luis Miguel Bonilla",
             "url": "https://raw.githubusercontent.com/Luismi74/files/master/GreengoldWalls.png",
             "name": "GreengoldWalls",
             "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/GreengoldWalls.png"
+        },{
+            "author": "Luis Miguel Bonilla",
+            "url": "https://raw.githubusercontent.com/Luismi74/files/master/gotcha.png",
+            "name": "Gotcha!",
+            "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/gotcha.png"
         }
+
 
     ]
 }
