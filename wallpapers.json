@@ -44,7 +44,12 @@
             "name": "Gotcha!",
             "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/gotcha.png"
         }
-
+        ,{
+            "author": "Luis Miguel Bonilla",
+            "url": "https://raw.githubusercontent.com/Luismi74/files/master/playitLoud.png",
+            "name": "Play it Loud",
+            "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/playitLoud.png"
+        }
 
     ]
 }
