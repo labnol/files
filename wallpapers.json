@@ -52,8 +52,13 @@
         } ,{
             "author": "AndroidWalls",
             "url": "https://raw.githubusercontent.com/Luismi74/files/master/bookwall.jpg",
-            "name": "Play it Loud",
+            "name": "Book & Lamp",
             "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/bookwall.jpg"
+        },{
+            "author": "AndroidWalls",
+            "url": "https://raw.githubusercontent.com/Luismi74/files/master/hipster.jpg",
+            "name": "Cool Hipster",
+            "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/hipster.jpg"
         }
     ]
 }
