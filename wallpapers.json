@@ -1,64 +1,16 @@
 {
     "wallpapers": [{
-            "author": "Lethalazo",
-            "url": "https://raw.githubusercontent.com/Luismi74/files/master/Frostbite%20Lagoon.png",
-            "name": "Frosbite Lagoon",
-            "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/Frostbite%20Lagoon.png"
+            "author": "",
+            "url": "https://raw.githubusercontent.com/Luismi74/files/master/walls/CITYsky01.jpg",
+            "name": "SkyWalls",
+            "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/walls/CITYsky01.jpg"
         },
         {
-            "author": "Lethalazo",
-            "url": "https://raw.githubusercontent.com/Luismi74/files/master/Blizz%20Valley.png",
-            "name": "Blizz Valley",
-            "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/Blizz%20Valley.png"
-        },
-        {
-            "author": "Kxnt",
-            "url": "https://raw.githubusercontent.com/Luismi74/files/master/Harvest%20Lagoon.png",
-            "name": "Harvest Lagoon",
-            "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/Harvest%20Lagoon.png"
-        },
-
-        {
-            "author": "Kxnt",
-            "url": "https://raw.githubusercontent.com/Luismi74/files/master/Ridge%20Island.png",
-            "name": "Ridge Island",
-            "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/Ridge%20Island.png"
-        }, {
-            "author": "Lethalazo",
-            "url": "https://raw.githubusercontent.com/Luismi74/files/master/Serene%20Sea.png",
-            "name": "Serene Sea",
-            "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/Serene%20Sea.png"
-        }, {
-            "author": "Lethalazo",
-            "url": "https://raw.githubusercontent.com/Luismi74/files/master/The%20Ascent.png",
-            "name": "The Ascent",
-            "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/The%20Ascent.png"
-        },{
-            "author": "Luis Miguel Bonilla",
-            "url": "https://raw.githubusercontent.com/Luismi74/files/master/GreengoldWalls.png",
-            "name": "GreengoldWalls",
-            "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/GreengoldWalls.png"
-        },{
-            "author": "Luis Miguel Bonilla",
-            "url": "https://raw.githubusercontent.com/Luismi74/files/master/gotcha.png",
-            "name": "Gotcha!",
-            "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/gotcha.png"
+            "author": "LMPB",
+            "url": "https://raw.githubusercontent.com/Luismi74/files/master/walls/GreenLifeWalls.jpg",
+            "name": "Green life ",
+            "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/walls/GreenLifeWalls.jpg"
         }
-        ,{
-            "author": "Luis Miguel Bonilla",
-            "url": "https://raw.githubusercontent.com/Luismi74/files/master/playitLoud.png",
-            "name": "Play it Loud",
-            "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/playitLoud.png"
-        } ,{
-            "author": "AndroidWalls",
-            "url": "https://raw.githubusercontent.com/Luismi74/files/master/bookwall.jpg",
-            "name": "Book & Lamp",
-            "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/bookwall.jpg"
-        },{
-            "author": "AndroidWalls",
-            "url": "https://raw.githubusercontent.com/Luismi74/files/master/hipster.jpg",
-            "name": "Cool Hipster",
-            "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/hipster.jpg"
-        }
+       
     ]
 }
