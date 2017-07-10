@@ -18,11 +18,19 @@
             "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/walls/HEY.jpg"
         },
           {
-            "author": "LMPB",
+            "author": "",
             "url": "https://raw.githubusercontent.com/Luismi74/files/master/walls/HighlandsWalls.jpg",
             "name": "HighLands ",
             "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/walls/HighlandsWalls.jpg"
         },          
-       
+        {
+            "author": "LMPB",
+            "url": "https://raw.githubusercontent.com/Luismi74/files/master/walls/Icywalls.jpg",
+            "name": "ICY ",
+            "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/walls/Icywalls.jpg"
+        }       
+                   
+                   
+                   
     ]
 }
