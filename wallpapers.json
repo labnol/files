@@ -10,7 +10,19 @@
             "url": "https://raw.githubusercontent.com/Luismi74/files/master/walls/GreenLifeWalls.jpg",
             "name": "Green life ",
             "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/walls/GreenLifeWalls.jpg"
-        }
+        },
+        {
+            "author": "LMPB",
+            "url": "https://raw.githubusercontent.com/Luismi74/files/master/walls/HEY.jpg",
+            "name": "HEY! ",
+            "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/walls/HEY.jpg"
+        },
+          {
+            "author": "LMPB",
+            "url": "https://raw.githubusercontent.com/Luismi74/files/master/walls/HighlandsWalls.jpg",
+            "name": "HighLands ",
+            "thumbnail": "https://raw.githubusercontent.com/Luismi74/files/master/walls/HighlandsWalls.jpg"
+        },          
        
     ]
 }
